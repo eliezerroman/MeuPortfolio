@@ -85,7 +85,7 @@ section {
     height: 100vh;
     width: 100%;
     position: relative;
-    background: url(img/tela_de_fundo_provisoria.png);
+    background: url(tela_de_fundo_provisoria.png);
     background-size: cover;
     background-position: center;
     display: flex;
